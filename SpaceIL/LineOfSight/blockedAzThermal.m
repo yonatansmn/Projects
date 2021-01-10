@@ -1,5 +1,5 @@
 % According to section 2.1.3 in "Landing Site Requirements" document, each landing site in the landing zone shall allow a 
-% non-obstructed line of sight of 3° elevation with angular sector of ±30° toward East (azimuth 0°) to prevent shading of solar panels.
+% non-obstructed line of sight of 3Â° elevation with angular sector of Â±30Â° toward East (azimuth 0Â°) to prevent shading of solar panels.
 % 
 % this code calculate the precentage of blocked azimuths at every point within the landing ellipse.
 
